@@ -114,7 +114,7 @@ This enables users to interact with the system using natural voice commands.
 
 ##  Author
 
-**Ligneshwar**  
+**Ligneshwar K**  
 GitHub: https://github.com/ligneshwar
 
 ---
