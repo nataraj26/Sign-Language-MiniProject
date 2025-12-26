@@ -114,8 +114,8 @@ This enables users to interact with the system using natural voice commands.
 
 ##  Author
 
-**Ligneshwar K**  
-GitHub: https://github.com/ligneshwar
+**NATARAJ KUMARAN S**  
+https://github.com/nataraj26/Sign-Language-MiniProject?tab=readme-ov-file
 
 ---
 
